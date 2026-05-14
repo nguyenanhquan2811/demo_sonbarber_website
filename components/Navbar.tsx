@@ -34,7 +34,7 @@ export default function Navbar() {
           <li><Link href="/academy" onClick={() => setMobileOpen(false)}>Academy</Link></li>
           <li><Link href="/contact" onClick={() => setMobileOpen(false)}>Liên hệ</Link></li>
           <li>
-            <Link href="/barber#booking" onClick={() => setMobileOpen(false)}>
+            <Link href="https://booking.easysalon.vn/son-barbershop" onClick={() => setMobileOpen(false)}>
               Đặt lịch
             </Link>
           </li>
